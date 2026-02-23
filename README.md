@@ -13,59 +13,87 @@
 🤖 AI Stock Price Prediction
 
   Machine Learning prediction model
+  
   Next-day price forecast
+  
   Expected price change
+  
   AI confidence score
 
 📈 Technical Indicators
 
   RSI (Relative Strength Index)
+  
   MACD Indicator
+  
   Moving Averages (MA20, MA50)
 
 🎯 Trading Signal Engine
 
   Automated BUY / SELL recommendations
+  
   Entry and exit price zones
+  
   AI-based decision support
 
 💼 Portfolio Simulator
 
   Simulate investment scenarios
+  
   Calculate expected profit/loss
+  
   Future portfolio value prediction
 
 📅 Future Forecast
 
   30-day projected price trend
+  
   Visual forecast chart
 
 🏦 Multi-Stock Support
 
   Supports multiple stocks:
+  
   TCS
+  
   Reliance
+  
   Infosys
+  
   HDFC Bank
+  
   ICICI Bank
+  
   NIFTY 50
 
 🛠️ Technology Stack
 
   Frontend
+  
   Streamlit
+  
   Plotly
+  
   Backend / Machine Learning
+  
   Python
+  
   Scikit-learn
+  
   Pandas
+  
   NumPy
+  
   Data Source
+  
   Yahoo Finance API (yfinance)
+  
   Deployment
+  
   AWS EC2
 
 📂 Project Structure
+
 tcs_stock_prediction/
 │
 ├── dashboard.py
@@ -77,13 +105,17 @@ tcs_stock_prediction/
 ⚙️ Installation Guide
 
   Clone Repository
+  
     git clone [https://github.com/your-username/tcs_stock_prediction.git](https://github.com/Hariharan2102/TCS_Stock_Prediction/tree/main)
 
 📊 Machine Learning Model Details
 
-  Model: Linear Regression
+  Model:
+  
+    Linear Regression
   
   Features used: 
+  
     Closing price
     Moving averages
     RSI
@@ -91,6 +123,7 @@ tcs_stock_prediction/
     Price returns
     
   Performance:
+  
     R² Score: 0.94
     RMSE: 42.25
 
@@ -99,26 +132,37 @@ tcs_stock_prediction/
   Features included:
   
   Live market data
+  
   AI predictions
+  
   Trading signals
+  
   Forecast charts
+  
   Portfolio simulation
 
 👨‍💻 Author
 
   Hariharan
+  
   Data Science & Machine Learning Developer
 
   GitHub: [https://github.com/your-username](Https://github.com/Hariharan2102)
+  
   LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hariharan-a-s-910b3a398/)
 
 ⚠️ Disclaimer
 
   This project is for educational purposes only.
+  
   It is not financial advice. Always do your own research before investing.
 
 ⭐ Future Enhancements
+
 Deep Learning (LSTM) prediction
+
 Real backtesting engine
+
 Database integration
+
 Advanced trading strategies
