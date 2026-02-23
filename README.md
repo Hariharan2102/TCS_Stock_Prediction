@@ -67,7 +67,7 @@ tcs_stock_prediction/
 
 ⚙️ Installation Guide
 Clone Repository
-git clone https://github.com/your-username/tcs_stock_prediction.git
+git clone [https://github.com/your-username/tcs_stock_prediction.git](https://github.com/Hariharan2102/TCS_Stock_Prediction/tree/main)
 
 📊 Machine Learning Model Details
 Model: Linear Regression
