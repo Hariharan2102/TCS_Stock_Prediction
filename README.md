@@ -94,13 +94,13 @@
 
 📂 Project Structure
 
-tcs_stock_prediction/
-│
-├── dashboard.py
-├── tcs_lr_model.pkl
-├── tcs_scaler.pkl
-├── requirements.txt
-└── README.md
+  tcs_stock_prediction/
+  │
+  ├── dashboard.py
+  ├── tcs_lr_model.pkl
+  ├── tcs_scaler.pkl
+  ├── requirements.txt
+  └── README.md
 
 ⚙️ Installation Guide
 
